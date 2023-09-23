@@ -19,7 +19,28 @@ let booleanisLoggedIn = Boolean(isLoggedIn)
 // "" => false;
 // "adam" => true;
 
-let isNum1 = 69;
+/*let isNum1 = 69;
 let stringisNum1 = String(isNum1);
 console.log(stringisNum1);
-console.log(typeof stringisNum1);
+console.log(typeof stringisNum1);*/
+
+// ************* Operations *******************
+
+/*let value = 5
+let negvalue = -value
+console.log(negvalue);*/
+
+/* let str1 = "Hello"
+let str2 = " World"
+let str3 = str1 + str2
+console.log(str3); */
+
+let num1,num2,num3
+num1 = num2 = num3 = 2+2
+
+let gameCounter = 100
+gameCounter++;
+console.log(gameCounter);
+
+// link to mdn docs :- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Increment
+// link to tc39.es :- https://tc39.es/ecma262/#integral-number
